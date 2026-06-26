@@ -40,7 +40,7 @@ src/
 https://deepa-noolvi.github.io/Taskify/
 ```
 
-📖 Learning Outcomes
+## 📖 Learning Outcomes
 
 This project helped me strengthen my understanding of:
 
@@ -54,8 +54,9 @@ Conditional Rendering
 Array Methods (map, filter)
 Local Storage
 Responsive Web Design
-👩‍💻 Author
 
-Deepa Noolvi
+## 👩‍💻 Author
+
+**Deepa Noolvi**
 
 GitHub: https://github.com/Deepa-noolvi
