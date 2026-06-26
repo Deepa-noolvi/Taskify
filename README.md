@@ -1,16 +1,101 @@
-# React + Vite
+# ✅ Taskify
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive **Task Management** web application built with **React.js** that helps users organize their daily tasks efficiently. Users can add tasks, assign priorities and categories, mark tasks as completed, track their progress, and manage tasks with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Add new tasks
+* Delete tasks
+* Mark tasks as Complete/Undo
+* Set task priority (High, Medium, Low)
+* Assign task categories (General, Work, Personal)
+* Progress tracker with completion bar
+* Clear all tasks
+* Local Storage support to preserve tasks after refreshing
+* Responsive and modern user interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Local Storage API
 
-## Expanding the Oxlint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```text
+src/
+│
+├── Components/
+│   ├── Taskform.jsx
+│   ├── Tasklist.jsx
+│   └── Progresstracker.jsx
+│
+├── App.jsx
+├── index.js
+└── index.css
+```
+
+## ▶️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Deepa-noolvi/taskify.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd taskify
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm start
+```
+
+## 🌐 Live Demo
+
+Add your GitHub Pages link here, for example:
+
+```text
+https://deepa-noolvi.github.io/taskify/
+```
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+* Home page
+* Adding a task
+* Completed task with progress tracker
+
+## 📖 Learning Outcomes
+
+This project helped me strengthen my understanding of:
+
+* React Components
+* React Hooks (`useState`, `useEffect`)
+* Props
+* Event Handling
+* Form Handling
+* CRUD Operations (Create, Update, Delete)
+* Conditional Rendering
+* Array Methods (`map`, `filter`)
+* Local Storage
+* Responsive Web Design
+
+## 👩‍💻 Author
+
+**Deepa Noolvi**
+
+GitHub: https://github.com/Deepa-noolvi
