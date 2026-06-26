@@ -1,0 +1,18 @@
+import React from 'react'
+
+export default function Progresstracker({tasks}) {
+  const totalTasks = tasks.length;
+  const completedTasks = tasks.filter((task) => task.completed).length;
+const progress = totalTasks === 0 ? 0 : (completedTasks / totalTasks) * 100;
+  return (
+    <div>
+      <p>
+        {completedTasks} of {totalTasks} tasks completed
+      </p>
+      <div className='progress-bar'>
+        <div className = "progress" style={{width: `${progress}%`}}></div>
+      </div>
+    </div>
+  );
+}
+
