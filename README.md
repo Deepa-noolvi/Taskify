@@ -36,48 +36,9 @@ src/
 ├── index.js
 └── index.css
 ```
-
-## ▶️ Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Deepa-noolvi/taskify.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd taskify
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Start the development server
-
-```bash
-npm start
-```
-
 ## 🌐 Live Demo
-
-Add your GitHub Pages link here, for example:
-
-```text
 https://deepa-noolvi.github.io/taskify/
 ```
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home page
-* Adding a task
-* Completed task with progress tracker
 
 ## 📖 Learning Outcomes
 
