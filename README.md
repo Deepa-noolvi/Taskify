@@ -37,7 +37,7 @@ src/
 └── index.css
 ```
 ## 🌐 Live Demo
-https://deepa-noolvi.github.io/taskify/
+https://deepa-noolvi.github.io/Taskify/
 ```
 
 ## 📖 Learning Outcomes
