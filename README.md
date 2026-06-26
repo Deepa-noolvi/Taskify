@@ -40,23 +40,22 @@ src/
 https://deepa-noolvi.github.io/Taskify/
 ```
 
-## 📖 Learning Outcomes
+📖 Learning Outcomes
 
 This project helped me strengthen my understanding of:
 
-* React Components
-* React Hooks (`useState`, `useEffect`)
-* Props
-* Event Handling
-* Form Handling
-* CRUD Operations (Create, Update, Delete)
-* Conditional Rendering
-* Array Methods (`map`, `filter`)
-* Local Storage
-* Responsive Web Design
+React Components
+React Hooks (useState, useEffect)
+Props
+Event Handling
+Form Handling
+CRUD Operations (Create, Update, Delete)
+Conditional Rendering
+Array Methods (map, filter)
+Local Storage
+Responsive Web Design
+👩‍💻 Author
 
-## 👩‍💻 Author
-
-**Deepa Noolvi**
+Deepa Noolvi
 
 GitHub: https://github.com/Deepa-noolvi
